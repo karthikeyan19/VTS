@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/linearLayout5">
+    <ImageView
+        android:id="@+id/ico"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        android:src="@drawable/hospital"
+        android:contentDescription="@string/_201" />
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cs1"
+            android:id="@+id/conte"
+            android:textColor="#010101" />
+    </LinearLayout>
+</LinearLayout>
+</RelativeLayout>

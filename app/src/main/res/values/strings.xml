@@ -1,0 +1,684 @@
+<resources>
+    <string name="app_name">GpsHoptial</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapa">Map View</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_main2">List </string>
+    <string name="title_activity_main3">VirudhuNagar Welfare App</string>
+    <string name="get_your_location">Get Your Location</string>
+    <string name="hosptial">Hospital</string>
+    <string name="atm">ATM</string>
+    <string name="emm">Empolyment office</string>
+    <string name="empa">District Empolyment Office,
+    16,Kandapuram Road,Virudhunagar-626001</string>
+    <string name="coll">College</string>
+    <string name="sch">School</string>
+    <string name="_20">20</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="address">Address</string>
+    <string name="cv1">
+        "\tKamaraj College of Engineering and Technology\n"
+        "\t\tS.P.G.Chidambara Nadar-C.Nagammal Campus,\n"
+        "\t\tS.P.G.C.Nagar,\n"
+        "\t\tPost Box No. 12,\n"
+        "\t\tVirudhunagar - 626 001."
+
+    </string>
+    <string name="cv2">
+        "\tV.V.Vanniaperumal College for Women,\n"
+        "\t\tVirudhunagar - 626001"
+
+    </string>
+    <string name="cv3">
+        "\tVirudhunagar Hindu's SethilKumara Nadar college,\n"
+        "\t\t3/151-1,College Road,Virudhunagar-626001."
+
+    </string>
+    <string name="cs3">
+      "\tMepco Nagar, Mepco Engineering College Post,\n"
+"\t\tSivakasi,\n"
+"\t\tVirudhunagar,\n"
+"\t\tTamil Nadu 626005."
+    </string>
+    <string name="cs2">
+"\t Sri Kaliswari College (Autonomous),\n"
+"\t\tSivakasi,\n"
+"\t\tVirudhunagar Main Road,\n"
+\t\tSivakasi - 626123, Tamilnadu."
+
+    </string>
+<string name="cs1">
+    "\t\tAyya Nadar Janaki Ammal College,\n"
+    "\t\tSivakasi,\n"
+    "\t\tSrivilliputhur Main Road,\n"
+    "\t\tSivakasi - 626123, Tamilnadu."
+</string>
+    <string name="satm1">
+   "\tAxis Bank ATM\n"
+"\t\t NRKR Rd, Kaliappa Nagar, Sivakasi, Tamil Nadu 626123"</string>
+<string name="satm2">
+    "\tState Bank ATM\n"
+"\t\t SH 187, Senayapuram Colony, Sivakasi, Tamil Nadu 626123"
+</string>
+
+<string name="satm3">
+    "\tTMB ATM\n"
+"\t\t S Car Rd, Parasakthi Colony, Sivakasi, Tamil Nadu 626123"</string>
+<string name="satm4">
+"\t\tAxis Bank\n"
+"Near Jothi Lodge\n"
+"Sivakasi."</string>
+    <string name="satm5">
+"\tAxis Bank\n"
+"No.64, N.R.K.R Road\n"
+"Sivakasi - 626123"</string>
+  <string name="satm6">
+"Axis Bank\n"
+"Shrinivasa Fine Arts\n"
+"Velayutham Road,\n"
+"Sivakasi - 626189"</string>
+    <string name="satm7">
+Axis Bank
+Satchiapuram IOCL outlet, Survey no.6,
+Anaiyur Village, Anaiyur Village
+Srivilliputhur Main Road,
+Sivakasi - 626124</string>
+<string name="satm8">
+    Axis Bank
+Sks Bhavanam,
+No, 820, Pkn Road, Near Varasithi Vinayakar Kovil
+Sivakasi</string>
+    <string name="satm9">
+Axis Bank
+513, Virudhunagar Main Road, Thiruthangal
+Sivakasi</string>
+    <string name="satm10">
+Bank of Baroda
+Ayyan Complex, Opp Bus Stand,
+Sivakasi</string>
+    <string name="satm11">
+Bank of India
+Near Water Tank, Srivilliputhur Road
+Sivakasi</string>
+    <string name="satm12">
+Bank of India
+Srivilliputhur Road, Satchiyapuram
+Sivakasi</string>
+    <string name="satm13">
+Bank of Maharastra
+Vembakottai Road
+Sivakasi</string>
+    <string name="satm14">
+Canara Bank
+Sivakasi to Srivilliputhur Road
+Sivakasi</string>
+    <string name="satm15">
+Catholic syrian bank
+33-33A West Car Street
+Sivakasi - 626123</string>
+    <string name="satm16">
+Central Bank
+Old Virudhunagar Road, Ammankovilpatti,
+Sivakasi</string>
+    <string name="satm17">
+City Union Bank
+2/1871, Sasi Nagar,
+Sivakasi</string>
+<string name="satm18">
+    HDFC Bank
+# 5, Velayutham Road
+Opposite Lovely Offset Printers
+Sivakasi - 626123
+Mobile    :9840673333</string>
+<string name="satm19">
+    HDFC Bank
+Near Bus Stand
+Sivakasi</string>
+    <string name="satm20">
+ICICI Bank
+58-A-3, Palaniappan Complex,
+P.K.S.A Road,
+Sivakasi - 626123</string>
+<string name="satm21">
+    ICICI Bank
+94/11, North Car Street
+Sivakasi</string>
+<string name="satm22">
+    Indian Bank
+Near Dr. Ambedkar statue
+New Road
+Sivakasi - 626 123</string>
+
+    <string name="tatm1">
+"\tAxis Bank ATM\n"
+"\t\t SH 42, Thiruthangal, Sivakasi, Tamil Nadu 626130"
+</string>
+        <string name="tatm2">
+"\tTamilnadu Mercandile Bank ATM\n"
+"\t\tSavings Bank\n"
+"\t\t Nadar nandhavana street, Thiruthangal."
+ </string>
+    <string name="tatm3">
+        Axis Bank ATM
+SH 42, Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string><string name="tatm4">
+Tamilnadu Mercandile Bank ATM
+Nadar nandhavana street, Thiruthangal
+</string>
+    <string name="tatm5">
+Union Bank Of India ATM
+521, SH 42, Parasakthi Colony, Sivakasi, Tamil Nadu 626123
+</string>
+    <string name="tatm6">
+TMB ATM
+6/743/2, Kamarajapuram Colony, Srivilliputhur Main Road, Satchiapuram, Virudhunagar District, Sivakasi, 626123
+044 2622 3226
+        </string>
+    <string name="tatm7">
+Axis Bank ATM
+513, Virudhunagar Main Road, Thiruthangal, Sivakasi, Tamil Nadu 626130
+1800 103 5577
+        </string>
+    <string name="tatm8">
+HDFC bank
+Velayutham Rd, Parasakthi Colony, Sivakasi, Tamil Nadu 626123
+04562 220 816
+        </string>
+    <string name="tatm9">
+IDBI ATM
+Velayutham Rd, Parasakthi Colony, Sivakasi, Tamil Nadu 626123
+
+    </string><string name="vatm1">
+"\tTMB Atm\n"
+"\t\t Theppam N St, Sivagami Puram, Virudhunagar, Tamil Nadu 626001"
+</string>
+        <string name="vatm2">
+            "\tHDFC Bank ATM\n"
+"\t\t Railway Feeder Rd, Sivagami Puram, Virudhunagar, Tamil Nadu 626001"
+</string>
+        <string name="vatm3">
+"\t\tSBI ATM\n"
+" Municipal Office Rd, Kattyapuram, Virudhunagar, Tamil Nadu 626001"
+    </string>
+    <string name="vatm4">
+        Indian Overseas Bank ATMs
+Address - DistrictRICT COLLECTORATE, VIRUDHUNAGAR 626002
+Pincode - 626002
+</string>
+    <string name="vatm5">
+City Union Bank ATMs
+Address - Door No. 68/1, Municpal Office Road, Near MGR Statue, Virudhunagar, Tamil Nadu 626001, Pincode: 626001
+Pincode - 626001
+</string>
+<string name="vatm6">
+    Lakshmi Vilas Bank ATMs
+Address - Door No.1033, Cotton Market, Rajapalayam, Virudhunagar
+Phone Number - 04563-222756
+</string>
+    <string name="vatm7">
+Lakshmi Vilas Bank ATMs
+Address - Door no.15 D, PSK nagar, Rajapalayam
+</string>
+    <string name="vatm8">
+ICICI Bank ATMs
+Address - ICICI Bank ATM, R R Plaza, 102, Katcheri Road, Madurai Main Road, Virudhunagar, Tamilnadu 626001, Virudhunagar, Tamil Nadu, 626001
+Pincode - 626001
+</string>
+    <string name="vatm9">
+        State Bank of India ATMs
+Address - Jeeva Lodge Virudhunagareeva Lodge28/12 Ramamoorthy Road Virudhunagar, Tamil Nadu 626001
+Pincode - 626001
+</string>
+    <string name="vatm10">
+Tamilnad Mercantile Bank ATMs
+Address - Kamaraj College of Engg and Technology, SPGC Nagar, Madurai Road, Virudhunagar 626 001.
+Pincode - 626 001
+</string>
+    <string name="vatm11">
+UCO Bank ATMs
+Address - Madurai Sethu Institute Of Technology, Pullur, Kariapatti Taluk, Virudhunagar, Tamilnadu
+        </string>
+    <string name="vatm12">
+        Karur Vysya Bank ATMs
+ MSPS, YJ Plaza, No.47/1, Katcheri Road, Virudhunagar 626 001.
+Pincode - 626 001
+    </string>
+<string name="agp">"\tAG polytechnique college\n"
+"\t\t6/584/a1,Lakshmi nagar,Virudhunagar,Tamil Nadu 626001" </string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main4">Virudhunagar</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_vlist">VlistActivity</string>
+    <string name="title_activity_atm_list">AtmListActivity</string>
+    <string name="_201">20</string>
+    <string name="ss1">Jaycees Matriculation Hr. Sec. School
+Gnanagiri Road
+Sivakasi
+Sivakasi - 626 189
+Phone : +91 4562 224202
+Website: www.sivakasijayceesschool.com</string>
+    <string name="ss17">
+A.P.Kaliappa Nadar Middle School,
+Hussain Colony,
+Sivakasi.
+Phone : +91 4562 278939</string>
+    <string name="ss2">
+ANUA Municipal Hr Sec School
+Sivakasi
+Phone : +91 4562 275132</string>
+<string name="ss3">
+    AVM Marimuthu Nadar Hr.Sec.School
+Vilampatti
+Sivakasi - 626124
+Phone : +91 4562 221526</string>
+<string name="ss4">
+    AVT High School
+Sivakasi
+Phone : +91 4562 274587</string>
+<string name="ss5">CMS Girls Hr.Sec.School
+Sivakasi
+Phone : +91 4562 220384</string>
+<string name="ss6">
+    Coronation Girls High School
+Sivakasi
+Phone : +91 4562 221664</string>
+<string name="ss7">
+    Kalaimagal Hr.Sec.School
+Sivakasi
+Phone : +91 4562 230676</string>
+<string name="ss8">
+    Kamarajar Eng Medium School
+Sivakasi
+Phone : +91 4562 225175</string>
+<string name="ss10">Lion Melwin Jones Primary &amp; Nursery
+Satchiyapuram,
+Sivakasi.
+Phone : +91 4562 222095</string>
+<string name="ss11">
+    Municipal High School
+Sivakasi
+Phone : +91 4562 278587</string>
+<string name="ss12">
+    Muslim Hr Sec School
+Sivakasi
+Phone : +91 4562 223785</string>
+<string name="ss13">
+    NPSS Rotary Matric High School
+Viswanatham,
+Sivakasi.
+Phone : +91 4562 278191</string>
+<string name="ss14">Senbaga Vinayagar Matriculation School,
+Sivakasi.
+Phone : +91 4562 276627</string>
+<string name="ss15">SHN Girls High School
+Sivakasi
+Phone : +91 4562 220154</string>
+    <string name="ss16">
+SHNV Hr Sec School
+Sivakasi
+</string>
+<string name="sv1">
+    KVS Matriculation Higher Secondary School
+Virudhunagar, Tamil Nadu 626003
+04562 252 717 </string>
+<string name="sv2">P.S.Chidambara Nadar Senior English School
+GT Nagar, Virudhunagar, Tamil Nadu 626001
+04562 245 327 </string>
+<string name="sv3">Kshatriya Vidya Sala Middle School
+4,Katchery Road,, Virudhunagar, Tamil Nadu 626001
+04562 243 060</string>
+<string name="sv4">Kendriya Vidyalaya, Virudhunagar
+Anna Nagar, Virudhunagar, Tamil Nadu 626001
+04562 280 028</string>
+    <string name="sv5">
+RJ Mantra English School
+Virudhunagar, Tamil Nadu 626002
+094869 47789 </string>
+    <string name="sv6">
+KVS Centenary School
+75A, Centenary Building, Ramamoorthy Rd, Virudhunagar, Tamil Nadu 626001
+04562 244 060</string>
+    <string name="sv7">
+Kshatriya Girls Middle School
+Sivagami Puram, Virudhunagar, Tamil Nadu 626001
+
+</string>
+<string name="st1">
+    Kalaimagal
+Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+    <string name="st2">
+Yrtv School
+Vadamalapuram, Thiruthangal, Sivakasi, Tamil Nadu 626130
+04562 221 004
+        </string>
+    <string name="st3">
+AAA INTERNATIONAL SCHOOL (CBSE)
+Thiruthangal, Sivakasi, Tamil Nadu 626130
+04562 201 882</string>
+    <string name="st4">
+KMKA Matriculation School
+Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+    <string name="st5">
+S.R.N. Govt Hr. Sec. School
+Srivilliputhur-Sivakasi-Virudhunagar-Aruppukottai-Tiruchuli-Narikudi-Parthibanoor Rd, Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+    <string name="st6">
+KMKA Matric Higher Secondary School
+Vadamalapuram, Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+<string name="st7">
+    Muthumari Matric Higher Secondary School
+Vadamalapuram, Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+<string name="ht1">
+    Thiruthangal Government Hospital
+Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+    <string name="ht2">
+NETHRA HOSPITAL
+Srivilliputhur-Sivakasi-Virudhunagar-Aruppukottai-Tiruchuli-Narikudi-Parthibanoor Rd, Thiruthangal, Sivakasi, Tamil Nadu 626130
+04562 233 255
+</string>
+<string name="ht3">
+    S.M.V.Hospital - Dr.V.Mookiah
+2, Annappapillai Street, Thiruthangal, Tamil Nadu 626130
+04562 230 213
+</string>
+    <string name="ht4">Menaka Hospital
+369, Thiruthangal Rd, Pasumponnagar, Rengapa Shyam Nagar, Sivakasi, Tamil Nadu 626130
+04562 222 028</string>
+    <string name="ht5">
+Narmadha Nurshing Home
+Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+    <string name="ht6">
+DR.THANGAVEL CLINIC
+Thiruthangal, Vadamalapuram, Tamil Nadu 626130
+</string>
+<string name="ht7">
+    Arun Physiotheraphy
+Dr.Muthukumar B.P.T., C.Y.T.,
+Alamarathupatti Road,
+Thiruthangal - 626123
+
+</string>
+    <string name="hs1">
+        Rural Mother Teresa Tertiary Care World Class Hospital in Madurai
+H. No. 17/44,Periya Pillai Rowther Street, Sivakasi, Tamil Nadu, 626123
+096003 22609
+</string>
+    <string name="hs2">
+Aarthy Hospital
+Dr.K.Bakyalaxmi Renganathan B.D.S. Dental Dr. Renganathan M.
+177,South Car Street,
+Sivakasi - 626123
+Mobile    :+91 9842166424
+</string>
+ <string name="hs3">
+     Ajay Clinic
+Dr. G. Kannan
+North Car Street,
+Sivakasi - 626123
+Phone    :+91 4562 228211
+</string>
+  <string name="hs4">
+    Alagan Sugalayam (Acupuncture)
+Dr.S.P.Jai sankar M.B.B.S.B.Ac,M.D
+264-C, Gnanagiri Road, National Colony,
+Sivakasi - 626189
+Phone    :+91 4562 225490</string>
+<string name="hs5">
+    Annai Clinic
+Dr.K.Venkata Subramanian M.D., D.C.H., Dr.Vasuki Venkat
+3, P.S.R. Road,
+Sivakasi - 626 123
+Phone    :+91 4562 221446</string>
+    <string name="hs6">
+Aruna Children Hospital
+Dr.A.Ramanathan M.B.B.S., D.C.H.,
+Ganthi Road, Near Bus - Stand,
+Sivakasi - 626123
+Phone    :+91 4562 278383
+</string>
+<string name="hs7">
+    Ashveny Clinic
+V.R.Ashok D.A., A.Svea Ronny M.B.B.S.
+1/6, P.K.N. Road, Near Sangeetha Lodge,
+Sivakasi - 626189
+Phone    :+91 4562 222981
+</string>
+ <string name="hs8">
+     B. Senthilkumar M.B.B.S., D.C.H., (Children Specialist)
+P.K.S.A. Arumuganagar Road,
+Sivakasi</string>
+    <string name="hs9">
+C.Ramesh M.D(CHEST) D.T.C.D.,
+14-B P.S.R. Road,
+Sivakasi
+Phone    :+91 4562 221915
+        </string>
+    <string name="hs10">
+Dr. A.C.Thilagar (Dental)
+South Car Street,
+Sivakasi
+Phone    :+91 4562 274874
+        </string>
+    <string name="hs11">
+Dr. Chandragraham Medical Fundation
+Dr. C. Suresh Graham M.S
+Police Station Road,
+Sivakasi - 626123
+Phone    :+91 4562 226312</string>
+    <string name="hs12">
+Dr. D. Balasubramaniyan
+136-A, North Car Street,
+Sivakasi
+Phone    :+91 4562 223415
+        </string>
+    <string name="hs13">
+Dr. J. Venketesan B.P.T., Physiotherapist,
+6/1085, Asari Colony, Satchiapuram,
+Sivakasi
+Phone    :+91 4562 220453
+    </string>
+    <string name="hv1">
+        Virudhunagar Government Hospital
+Ramamoorthy Road, Virudhunagar
+04562 - 243030, 242017, 243880(AE Ward)</string>
+    <string name="hv2">
+Thiruvengadam Hospital
+Ramamoorthy Road, Virudhunagar
+04562 - 242565</string>
+    <string name="hv3">
+Dr. Lysonder Hospital
+West Car Street, Virudhunagar
+04562 - 243322, 243233</string>
+    <string name="hv4">
+Suriyakandhi Hospital
+Ramamoorthy Road, Virudhunagar
+04562 - 281115</string>
+    <string name="hv5">
+Karthik Nusing Home
+Aruppukkottai Road, Virudhunagar
+04562 - 280169
+        </string>
+    <string name="hv6">
+Holy Cross Hospital
+Virudhunagar
+04562 - 252430
+        </string>
+    <string name="hv7">
+Rural Eye Hospital
+Virudhunagar
+04562 - 289029</string>
+    <string name="hv8">
+Sudhakaran Dental Clinic
+Aandikinaru Street, Virudhunagar
+ </string>
+    <string name="hv9">
+St. Luka Eye Hospital
+Aruppukkottai Road, Virudhunagar
+ 04562 - 280140
+    </string>
+    <string name="map_view">Map view</string>
+<string name="cs4">    PSR Engineering College - Sivakasi
+    Sevalpatti, Virudhunagar Dist., Sivakasi, Tamil Nadu 626140
+    04562 239 091</string>
+<string name="cv4">
+    Sri Vidya College of Engineering &amp; Technology,Virudhunagar.
+
+    Sivakasi Main Road, Virudhunagar, Tamil Nadu 626005
+    04562 267 467 -
+</string>
+<string name="cs5">
+    AAA Engineering College,Sivakasi.
+    Kamarajar Educational Road, Amathur (V),Sivakasi, Tamil Nadu 626123
+    04562 251 112 -
+</string>
+    <string name="cs6">
+    SFR College of Arts and Science for women,Sivakasi
+
+    Pallapatti to Sivakasi Rd, Kamarajapuram Colony, Sivakasi, Tamil Nadu 626123
+    04562 220 389 -
+</string>
+    <string name="cs7">    Renganayagi Varatharaj College of Engineering,Sivakasi
+    Salvarpatti, Thayilpatti, Sivakasi, Virudhunagar, Tamil Nadu 626128
+    04562 234 567 -
+</string>
+<string name="ss18">VSKD School
+    SH 187,Prarasakthi Colony ,Sivakasi,Tamil Nadu 626189</string>
+    <string name="rest">Restaurant</string>
+    <string name="sres1">
+        Karthik Hotel
+  21 ratings
+No 14/1-2 Ayyan Complex, Sivakasi Ho, Sivakasi - 626123</string>
+<string name="sres2">Sharma Restaurant
+  2 ratings
+Velayutham Road, Sivakasi Ho, Sivakasi - 626123</string>
+<string name="sres3">
+C Square Cafe
+  1 ratings
+C Square Building, Velayutham Road, Parasakthi Colony, Sivakasi - 626123
+</string>
+ <string name="sres4">
+Sree Baalaji Bhavan
+  4 ratings
+No 110, Sattur Road, Sivakasi East, Sivakasi - 626189</string>
+ <string name="sres5">
+Annapoorna Hotel
+No 106, Thiruthangal Road, Sivakasi Ho, Sivakasi - 626123
+     </string>
+    <string name="sres6">
+        Marutham Restaurant
+100 Thiruthangal Road,, Sivakasi, Tamil Nadu 626123
+04562 225 777 </string>
+    <string name="sres11">
+Sharma Restaurant
+Velayutham Rd, Parasakthi Colony, Sivakasi, Tamil Nadu 626123
+098431 26808
+        </string>
+    <string name="sres7">
+Sri Kaliswari Le Orchids
+96/1 Chairman a Shanmuga Nadar Road, Sivakasi, Tamil Nadu 626123
+098430 27925 </string>
+    <string name="sres8">
+Sri Apoorva Restaurant
+SH 187, Kaliappa Nagar, Sivakasi, Tamil Nadu 626123
+</string>
+    <string name="sres9">
+Navarasaa Restaurant
+101 , Near Bus Stand , Satur Road, Sivakasi, Tamil Nadu 626189
+04562 274 733
+        </string>
+    <string name="sres10">
+VIJAYAM MESS
+122 N R K R Road, Sivakasi, Tamil Nadu 626123
+099430 18166
+</string>
+    <string name="vres1">
+Burma Kadai
+No 6/341/21A, Opposite to VVV College, Madurai Road, NGO Colony, GT Nagar, Virudhunagar, Tamil Nadu 626001
+04562 267 477 </string>
+    <string name="vres2">
+Kamaliya Garden Restaurant
+129/A, Pullela Kottai Road, Sivagami Puram, Virudhu nagar, Virudhunagar, Tamil Nadu 626001
+097860 78617</string>
+    <string name="vres3">
+Burma Kadai
+100, Municipal Office Rd, Sivagami Puram, Virudhunagar, Tamil Nadu 626001
+076675 59999 </string>
+    <string name="vres4">
+Banu Restaurant
+Sivagami Puram, Virudhunagar, Tamil Nadu 626001
+</string>
+    <string name="vres5">
+Kamaliyas
+Church Rd, Sivagami Puram, Virudhunagar, Tamil Nadu 626001
+04562 242 575  </string>
+    <string name="vres6">
+Prince Family Restaurant
+Link Rd, Virudhunagar, Tamil Nadu 626001
+</string>
+    <string name="vres7">
+Rathina  Hot Bakes
+27/A , Link Road, Virudhunagar, Tamil Nadu 626001
+098430 28044
+</string>
+    <string name="vres8">
+Sri Nandha Hotel
+  2 ratings
+No 8/1183 3, Sivakasi Main Road, Virudhunagar Ho, Virudhunagar - 626001</string>
+<string name="vres9">
+    Sree Kumaran Hotel
+  1 ratings
+N Subayapuram NH Road, Sattur, Virudhunagar - 626203</string>
+    <string name="vres10">
+Anandas Hotel
+  10 ratings
+No 295, Tenkasi Road, Rajapalayam, Virudhunagar - 626117</string>
+    <string name="vres11">
+S P Veg Restaurant
+  1 ratings
+No 45, Kandapuram Street, Virudhunagar Ho, Virudhunagar - 626001</string>
+<string name="vres12">
+    Sathya Hotel
+No 1, Municipal Office Road, Virudhunagar Ho, Virudhunagar - 626001</string>
+    <string name="vres13">
+Hotel Udupi Venkatesha Bhavan
+Main Road, Sattur, Sattur, Virudhunagar - 626203</string>
+    <string name="vres14">
+Udupi Venkateswara Bhavan
+No 325, Main Road,26km, Sattur, Virudhunagar - 626203
+</string>
+    <string name="vres15">
+        Sri Udupi Woodlands
+No.33, Vembakottai Road, Sattur, Sattur, Virudhunagar - 626203</string>
+    <string name="vres16">
+Hotel Royal Vasantham
+Tuticorin Madurai Byepass Road, Chettipatti, Pandalgudi, Virudhunagar - 626113
+</string>
+    <string name="sres14">
+Sharma Restaurant
+Velayutham Rd, Parasakthi Colony, Sivakasi, Tamil Nadu 626123
+098431 26808
+        </string>
+    <string name="tres1">
+Annai Cool Drinks
+Thiruthangal, Sivakasi, Tamil Nadu 626130
+091504 82492
+        </string>
+    <string name="tres2">
+Arun IceCream
+SH 42, Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+    <string name="tres3">
+Karruppasamy Cafe
+Thiruthangal, Sivakasi, Tamil Nadu 626130
+</string>
+</resources>
