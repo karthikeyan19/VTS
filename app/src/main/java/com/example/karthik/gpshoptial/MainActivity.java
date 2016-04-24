@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-toolbar.setTitle("Address");
+toolbar.setTitle("Addressssss");
         setSupportActionBar(toolbar);
 
         TextView adc = (TextView) findViewById(R.id.addrc);
